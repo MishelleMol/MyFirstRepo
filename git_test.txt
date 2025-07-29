@@ -7,3 +7,4 @@ x=15
 z=8000
 result = x + 5 + z + y
 print("Hello world")
+print ("traducción: Hola Mundo")
