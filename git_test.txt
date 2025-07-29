@@ -5,7 +5,8 @@
 y=5
 x=15
 z=8000
-result = x + 5 + z + y
+result = x + z + y
+print (result)
 print("Hello world")
 print ("traducción: Hola Mundo")
 print("Que complicado esta esto")
